@@ -6,3 +6,5 @@ def check_winner():
     dd
 
     azaz
+
+    khalifa
