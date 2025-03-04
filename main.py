@@ -56,7 +56,3 @@ canvas.bind("<Button-1>", handle_click)
 fenetre.mainloop()
 
 #test
-dfjru
-rrf
-frf
-rfrf
