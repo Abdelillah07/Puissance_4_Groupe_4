@@ -55,4 +55,4 @@ canvas.bind("<Button-1>", handle_click)
 
 fenetre.mainloop()
 
-#test
+#Interface
